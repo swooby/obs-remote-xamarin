@@ -1,10 +1,11 @@
 ﻿using System;
-namespace obs-remote
+
+namespace obsremote
 {
 	public class MyClass
-{
-    public MyClass()
     {
+        public MyClass()
+        {
+        }
     }
-}
 }
